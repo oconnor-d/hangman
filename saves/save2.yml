@@ -1,0 +1,13 @@
+--- !ruby/object:Hangman
+wrong_guesses: 7
+player: !ruby/object:Player
+  name: Ddoy
+word: debauch
+wrong_letters:
+- s
+- f
+- g
+correct_letters:
+- a
+- d
+- h

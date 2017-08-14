@@ -1,0 +1,16 @@
+--- !ruby/object:Hangman
+wrong_guesses: 5
+player: !ruby/object:Player
+  name: Dylon
+word: autocracy
+wrong_letters:
+- q
+- w
+- e
+- i
+- savr
+correct_letters:
+- r
+- t
+- y
+- u

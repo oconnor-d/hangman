@@ -1,0 +1,13 @@
+--- !ruby/object:Hangman
+wrong_guesses: 7
+player: !ruby/object:Player
+  name: Danny
+word: detergent
+wrong_letters:
+- q
+- w
+- y
+correct_letters:
+- e
+- r
+- t
